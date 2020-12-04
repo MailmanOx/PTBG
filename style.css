@@ -1,0 +1,80 @@
+
+/* Add a black background color to the top navigation */
+.topnav {
+  margin:0;
+  padding:0;
+  background-color:#DEFFED;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  margin:0;
+  padding:0;
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #940C00;
+  color: white;
+  transition:1s;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #940C00;
+  color: #ffffff;
+}
+
+.logo {
+  float:left;
+}
+
+.header-img {
+  width:100%;
+}
+
+header {
+  width:100%;
+   height:100%;
+}
+
+.patrick-himself{
+  width:300px; 
+}
+
+.motto{
+  font-family: 'Cedarville Cursive', cursive;
+  float:right;
+  font-size:25px;
+  padding-right:75px;
+}
+
+.order-CTA{
+  font-size:35px;
+  background-color:#41E088;
+  border-radius:8px;
+  text-align:center;
+}
+
+footer {
+  background-color:#DEFFED;
+  height:50px;
+    width:100%;
+  text-align:center;
+  
+}
+
+.newspaper {
+  width:350px;
+}
+
+.patrickstory{
+  font-family: 'Roboto', sans-serif;
+}
